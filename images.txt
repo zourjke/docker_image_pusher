@@ -2,4 +2,7 @@ alpine
 python:alpine3.19
 youshandefeiyang/allinone
 portainer/portainer-ce
-
+youshandefeiyang/php-env:arm64
+jeessy/ddns-go
+wisdomsky/casaos-cloudflared
+xhofe/alist:latest
